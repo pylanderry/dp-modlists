@@ -4,7 +4,7 @@
     "description": "The ultimate fantasy life simulator, built for Skyrim Special Edition. Explore a reactive world full of beauty and brutality. Live your life as you see fit.",
     "author": "Dylan Perry \u0026 Wildlander Team",
     "maintainers": [
-      "github/dylan-perry",
+      "github/pylanderry",
       "github/Wildlander-mod"
     ],
     "game": "skyrimspecialedition",
@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "image": "https://raw.githubusercontent.com/pylanderry/dp-modlists/main/wj_thumbnail-web.webp",
       "readme": "https://www.wildlandermod.com/download",
       "download": "https://authored-files.wabbajack.org/Wildlander.wabbajack_f8b123b3-07d7-48cf-a299-9f303ac53b7a",
       "machineURL": "wildlander",
@@ -40,4 +40,5 @@
     "dateUpdated": "2024-05-17T23:08:46.0924834Z",
     "repositoryName": ""
   }
+
 ]
